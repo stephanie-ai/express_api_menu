@@ -1,0 +1,2 @@
+# express_api_menu
+Start work on your own API!  You can choose what your API does You can choose what you use to create it eg. http module/express/alternative framework. Write some tests using mocha and supertest and check your coverage with nyc, aiming for minimum 60-80% coverage. Consider RESTful routing As a stretch goal, try and implement all four parts of CRUD functionality (Create, Read, Update, Delete)
